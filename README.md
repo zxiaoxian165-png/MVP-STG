@@ -15,7 +15,9 @@ The implementation of MVP-STG was developed and tested under the following envir
 * scipy>=1.7.0
 
 ## Repository Structure
-model1/
+
+```text
+model/
 ├── model.py
 ├── data_loader.py
 ├── metrics.py
@@ -31,6 +33,7 @@ model1/
     ├── call_out.csv
     ├── sms_in.csv
     └── sms_out.csv
+```
 
 ## Dataset Access
 We appreciate the availability of these public datasets, which can be accessed through the following sources.
