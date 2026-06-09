@@ -9,16 +9,28 @@ MVP-STG is designed to model complex spatial-temporal dependencies in cellular t
 
 The implementation of MVP-STG was developed and tested under the following environment:
 
-* Python == 3.10.14
-* PyTorch == 2.2.2
-* NumPy == 1.26.4
-* Pandas == 2.3.3
-* Scikit-learn == 1.7.2
-* SciPy == 1.15.3
-* Matplotlib == 3.10.9
-* tqdm == 4.65.0
-* PyYAML == 6.0.1
-* PyWavelets == 1.8.0
+* torch>=2.0.0
+* numpy>=1.21.0
+* pandas>=1.3.0
+* scipy>=1.7.0
+
+## Repository Structure
+model1/
+├── model.py
+├── data_loader.py
+├── metrics.py
+├── config.py
+├── train.py
+├── test.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+└── data/
+    ├── coords.csv
+    ├── call_in.csv
+    ├── call_out.csv
+    ├── sms_in.csv
+    └── sms_out.csv
 
 ## Dataset Access
 We appreciate the availability of these public datasets, which can be accessed through the following sources.
