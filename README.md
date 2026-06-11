@@ -39,4 +39,3 @@ model/
 We appreciate the availability of these public datasets, which can be accessed through the following sources.
 
 * The Milan Telecom Dataset is available at https://www.nature.com/articles/sdata201555.
-* The 5G Traffic Dataset is available at https://ieee-dataport.org/documents/5g-traffic-datasets
