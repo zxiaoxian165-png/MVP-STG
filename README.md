@@ -31,6 +31,9 @@ model/
     ├── sms_in.csv
     └── sms_out.csv
 ```
+## Pre-trained Weights
+The pre-trained model checkpoint is available in GitHub Release v1.0:
+https://github.com/zxiaoxian165-png/MVP-STG/releases
 
 ## Dataset Access
 We appreciate the availability of these public datasets, which can be accessed through the following sources.
