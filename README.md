@@ -1,5 +1,4 @@
 # MVP-STG
-Dual-Stage Multi-View Spatiotemporal Fusion Network for Cellular Traffic Prediction
 ## Basic Information
 
 This repository contains the PyTorch implementation of **MVP-STG**, a Dual-Stage Multi-View Spatiotemporal Fusion Network for cellular traffic prediction.
